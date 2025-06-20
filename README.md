@@ -32,10 +32,3 @@
 
 -   [TwinStar](https://github.com/twinstar6980): His project [Twinning](https://github.com/twinstar6980/Twinning) has helped me a lot on making this project.
 
-# How to reach me?
-
--   My Personal Mail: harumatsx@gmail.com
-
--   Issues of `this project` please refer to: [GitHub Issues](https://github.com/Haruma-VN/Sen.Environment/issues)
-
--   Pull requests of `this project` please refer to: [GitHub Pull Requests](https://github.com/Haruma-VN/Sen.Environment/pulls)
